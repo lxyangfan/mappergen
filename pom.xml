@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>mappergen</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Mybatis Mapper Generator for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
